@@ -9,7 +9,7 @@ description = "Starter scaffold for the readfit Python project."
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [
-  { name = "mfr24" }
+  { name = "Mike Reid" }
 ]
 dependencies = [
   "matplotlib>=3.8",
